@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"890090000023106058",
+		"product_id":"736430079244759532",
+		"client_id":"526212053057155456",
+		"client_secret":"8B0BAC24FA058D60901D08FCB8345280D568A94C02ABBA2F993C4DB8533A4232",
+		"project_id":"736430079244759532",
+		"app_id":"103570421",
+		"api_key":"CgB6e3x9DQbpy2397M/jhlxeV6PdZji1TXb0bQR4CbktgvZkDLqv+bAr4H1LXjeiOG96Nr+PN/Xx1UWOZY6Znx08",
+		"package_name":"com.bayarsahintekin.cameraenginevideo"
+	},
+	"configuration_version":"1.0"
+}

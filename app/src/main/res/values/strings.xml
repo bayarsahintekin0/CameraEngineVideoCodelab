@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CameraEngineVideoCodelab</string>
+    <string name="capture_image">capture Image</string>
+    <string name="stop_image">stop</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="flashMode">FlashMode</string>
+    <string name="manualIso">manualIso</string>
+    <string name="manualExposure">manualExposure</string>
+    <string name="warning_str">CameraKit is not installed or not support this device.</string>
+</resources>
